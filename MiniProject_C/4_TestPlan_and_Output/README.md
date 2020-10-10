@@ -29,6 +29,9 @@
 ### To set Soak Time
 ![soakt](https://user-images.githubusercontent.com/69105925/95644579-33e6af00-0ad5-11eb-9e45-b1570699e2ea.png)
 
+### Temperature Menu to choose type of water for operation
+![water](https://user-images.githubusercontent.com/69105925/95647329-330d4780-0aec-11eb-8335-b286933ab59e.png)
+
 ### If Soaking is selected
 ![soaka](https://user-images.githubusercontent.com/69105925/95644587-3ea14400-0ad5-11eb-9288-8952f19edac9.png)
 
